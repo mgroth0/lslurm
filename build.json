@@ -1,0 +1,13 @@
+{
+  "type": "BasicJvmOnlyMod",
+  "jvmExec": {
+    "type": "Typical"
+  },
+  "dependencies": [
+    {
+      "type": "Project",
+      "cfg": "implementation",
+      "path": ":k:gui"
+    }
+  ]
+}
