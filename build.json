@@ -3,6 +3,7 @@
   "jvmExec": {
     "type": "Typical"
   },
+  "install": true,
   "dependencies": [
     {
       "type": "Project",
